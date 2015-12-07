@@ -1,0 +1,26 @@
+<Parameters>
+	<countX>41</countX>
+	<stepX>0</stepX>
+	<twistX>-13.5</twistX>
+<Parameters/>
+<primitive>
+		<shiftY>357.143</shiftY>
+		<rotate>91.8367</rotate>
+		<size>8.02582, 20</size>
+		<color>255, 0, 0, 134</color>
+		<filled>0</filled>
+		<type>0</type>
+	<lineWidth>1.03571</lineWidth>
+	</primitive>
+<Global>
+		<Scale>1</Scale>
+		<Rotate>-16.5306</Rotate>
+		<Background>0</Background>
+	<background>132, 255, 139, 255</background>
+	<MusicSpeed>0.933673</MusicSpeed>
+	</Global>
+<countY>13</countY>
+	<stepY>0</stepY>
+	<twistY>0.9</twistY>
+	<pinchY>0.925</pinchY>
+</Parameters>
